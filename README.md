@@ -64,9 +64,9 @@ qrcode_initText(&qrcode, qrcodeBytes, DEFAULT_QR_VERSION, ECC_LOW, "HELLO WORLD"
 The generated two-dimensional code is dot matrix data, 8 dots constitute a Byte. The following codes can be used to display the QR code
 
 ```c
-for (uint8 y = 0; y <qrcode.size; y++) {
-    for (uint8 x = 0; x <qrcode.size; x++) {
-        if (qrcode_getModule(&qrcode, x, y) {
+for (uint8_t y = 0; y <qrcode.size; y++) {
+    for (uint8_t x = 0; x <qrcode.size; x++) {
+        if (qrcode_getModule(&qrcode, x, y)) {
             rt_kprintf("**");
         } else {
             rt_kprintf(" ");
