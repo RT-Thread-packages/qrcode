@@ -84,6 +84,8 @@ for (uint8_t y = 0; y < qrcode.size; y++) {
 
 ![qrcode](figures/qrcode.gif)
 
+在Arduino平台运行本软件包，更多例子：https://github.com/onelife/RTT-QRCode
+
 ## 5、注意事项
 
 - 在生成二维码时，使用的版本越高，需要申请的动态内存就越大。
