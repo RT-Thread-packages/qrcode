@@ -84,6 +84,8 @@ Enter the command qrcode RT-Thread in MSH, you can print out a QR code on the se
 
 ![qrcode](figures/qrcode.gif)
 
+How to run this package on the Arduino platform: https://github.com/onelife/RTT-QRCode
+
 ## 5. Matters needing attention
 
 - When generating a QR code, the higher the version used, the larger the dynamic memory that needs to be applied for.
