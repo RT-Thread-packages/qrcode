@@ -82,7 +82,7 @@ for (uint8_t y = 0; y < qrcode.size; y++) {
 
 在 MSH 中输入命令 qrcode RT-Thread，可以在串口助手上打印出一个二维码来，利用手机扫码软件扫描后可以看到结果为 RT-Thread。
 
-![qrcode](figures/qrcode.gif)
+![qrcode](figures/qrcode.png)
 
 在Arduino平台运行本软件包，更多例子：https://github.com/onelife/RTT-QRCode
 

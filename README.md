@@ -82,7 +82,7 @@ In this example, the QR code routine needs to be opened in the qrcode software p
 
 Enter the command qrcode RT-Thread in MSH, you can print out a QR code on the serial port assistant, scan it with the mobile phone code scanning software, you can see the result is RT-Thread.
 
-![qrcode](figures/qrcode.gif)
+![qrcode](figures/qrcode.png)
 
 How to run this package on the Arduino platform: https://github.com/onelife/RTT-QRCode
 
