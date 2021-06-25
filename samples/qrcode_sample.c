@@ -31,7 +31,7 @@ static void qrcode(uint8_t argc, char **argv)
                 {
                     if (qrcode_getModule(&qrc, x, y))
                     {
-                        rt_kprintf("**");
+                        rt_kprintf("\xdb\xdb");
                     }
                     else
                     {
