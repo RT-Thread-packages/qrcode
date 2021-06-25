@@ -89,10 +89,9 @@ for (uint8_t y = 0; y < qrcode.size; y++) {
 ## 5、注意事项
 
 - 在生成二维码时，使用的版本越高，需要申请的动态内存就越大。
-- 扫描串口助手上的二维码时，注意设置串口助手白底黑字。
-- 扫描串口助手上的二维码时，注意缩小文字显示，让*间的间距减小。
 
 ## 6、联系方式 & 感谢
 
-* 维护：[qgyhd1234](https://github.com/qgyhd1234)
+* 维护：[qgyhd1234](https://github.com/qgyhd1234)  [mysterywolf](https://github.com/mysterywolf)
 * 主页：https://github.com/RT-Thread-packages/qrcode
+

@@ -89,10 +89,9 @@ How to run this package on the Arduino platform: https://github.com/onelife/RTT-
 ## 5. Matters needing attention
 
 - When generating a QR code, the higher the version used, the larger the dynamic memory that needs to be applied for.
-- When scanning the QR code on the serial port assistant, pay attention to setting the serial port assistant with black characters on a white background.
-- When scanning the QR code on the serial port assistant, pay attention to reducing the text display to reduce the space between *.
 
 ## 6. Contact & Thanks
 
-* Maintenance: [qgyhd1234](https://github.com/qgyhd1234)
+* Maintenance: [qgyhd1234](https://github.com/qgyhd1234)  [mysterywolf](https://github.com/mysterywolf)
 * Homepage: https://github.com/RT-Thread-packages/qrcode
+
