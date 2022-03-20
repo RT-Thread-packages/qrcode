@@ -1,6 +1,6 @@
 # qrcode
 
-[中文页](README_ZH.md) | English
+[中文页](README_ZH.md) | English | [Offical](README_offical.md)
 
 ## 1 Introduction
 
@@ -10,7 +10,8 @@
 
 | Name | Description |
 | ---- | ---- |
-| examples | Examples directory, and some corresponding instructions |
+| samples | Examples directory, and some corresponding instructions |
+| examples | Arduino |
 | inc | Header file directory |
 | src | Source Code Directory |
 

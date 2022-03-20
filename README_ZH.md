@@ -1,6 +1,6 @@
 # qrcode
 
-中文页 | [English](README.md)
+中文页 | [English](README.md) | [官方文档](README_offical.md)
 
 ## 1、介绍
 
@@ -10,7 +10,8 @@
 
 | 名称 | 说明 |
 | ---- | ---- |
-| examples | 例子目录，并有相应的一些说明 |
+| samples | 例子目录，并有相应的一些说明 |
+| examples | Arduino 例程 |
 | inc  | 头文件目录 |
 | src  | 源代码目录 |
 
