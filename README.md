@@ -85,7 +85,11 @@ Enter the command qrcode RT-Thread in MSH, you can print out a QR code on the se
 
 ![qrcode](figures/qrcode.png)
 
-How to run this package on the Arduino platform: https://github.com/onelife/RTT-QRCode
+### Other examples
+
+https://github.com/RT-Thread/rt-thread/tree/master/bsp/stm32/stm32l475-atk-pandora/board/ports/lcd
+
+https://github.com/onelife/RTT-QRCode
 
 ## 5. Matters needing attention
 

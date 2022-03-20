@@ -85,7 +85,11 @@ for (uint8_t y = 0; y < qrcode.size; y++) {
 
 ![qrcode](figures/qrcode.png)
 
-在Arduino平台运行本软件包，更多例子：https://github.com/onelife/RTT-QRCode
+### 其他例程
+
+https://github.com/RT-Thread/rt-thread/tree/master/bsp/stm32/stm32l475-atk-pandora/board/ports/lcd
+
+https://github.com/onelife/RTT-QRCode
 
 ## 5、注意事项
 
