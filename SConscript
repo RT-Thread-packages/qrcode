@@ -1,13 +1,12 @@
 from building import *
 
 cwd  = GetCurrentDir()
+CPPPATH = [cwd]
 
-src = Glob('src/*.c')
+src = ['qrcode.c']
 
 if GetDepend(['PKG_QRCODE_SAMPLE']):
-    src += Glob('samples/*.c')
-
-CPPPATH = [cwd + '/inc']
+    src += ['qrcode_sample.c']
 
 group = DefineGroup('qrcode', src, depend = ['PKG_USING_QRCODE'], CPPPATH = CPPPATH)
 
